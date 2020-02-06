@@ -4,7 +4,6 @@
 /* End Fonts */
 
 body {
-    background: url('http://cdn.wallpapersafari.com/13/6/Mpsg2b.jpg');
     margin: 0px;
     font-family: 'Ubuntu', sans-serif;
     background-size: 100% 110%;
@@ -81,13 +80,6 @@ h1, h2, h3, h4, h5, h6, a {
     margin-left: -70%;
     cursor: pointer;
     text-decoration: underline;
-}
-
-.no-access {
-    color: #E86850;
-    margin: 20px 0px 20px -57%;
-    text-decoration: underline;
-    cursor: pointer;
 }
 
 .try-again {
