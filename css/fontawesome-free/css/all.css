@@ -1029,6 +1029,13 @@ readers do not read off random characters that represent icons */
 .fa-columns:before {
   content: "\f0db"; }
 
+  .three-columns {
+    
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
 .fa-comment:before {
   content: "\f075"; }
 
